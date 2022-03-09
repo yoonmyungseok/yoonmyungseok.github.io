@@ -32,7 +32,7 @@ published: true
 
 ## _**나의 풀이**_
 
-```
+```java
 class Solution {
     public double solution(int[] arr) {
         int sum=0; // 1
