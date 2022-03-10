@@ -23,6 +23,14 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+        <span class="nav__sub-title">DB</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Db" %}
+                        <li><a href="/categories/db" class="">Oracle({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>    
         <span class="nav__sub-title">Back-End</span>
             <ul>
                 {% for category in site.categories %}
