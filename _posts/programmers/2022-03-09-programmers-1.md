@@ -1,5 +1,5 @@
 ---
-title: "[프로그래머스] Level.1 - 평균 구하기"
+title: "[프로그래머스JAVA] Level.1 - 평균 구하기"
 excerpt: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
 categories:
 - Programmers
